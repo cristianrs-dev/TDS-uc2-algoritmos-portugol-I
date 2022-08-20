@@ -1,0 +1,1 @@
+Algoritmos aplicado as regras de negocio de um hotel
